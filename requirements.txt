@@ -1,0 +1,9 @@
+streamlit>=1.40
+folium>=0.16
+streamlit-folium>=0.22
+langchain>=1.0
+langchain-classic>=1.0
+langchain-groq>=1.0
+python-dotenv>=1.0
+supabase>=2.18
+pytest>=8.0

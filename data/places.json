@@ -1,0 +1,74 @@
+{
+    "Delhi": [
+      {"name": "Humayun's Tomb", "hours": 2, "tags": ["heritage"], "slot": "morning"},
+      {"name": "Lodhi Garden", "hours": 1.5, "tags": ["nature"], "slot": "morning"},
+      {"name": "Chandni Chowk", "hours": 2, "tags": ["food", "shopping"], "slot": "afternoon"},
+      {"name": "India Gate", "hours": 1, "tags": ["heritage"], "slot": "evening"}
+    ],
+    "Agra": [
+      {"name": "Taj Mahal", "hours": 3, "tags": ["heritage"], "slot": "morning"},
+      {"name": "Agra Fort", "hours": 2, "tags": ["heritage"], "slot": "afternoon"},
+      {"name": "Mehtab Bagh", "hours": 1, "tags": ["nature"], "slot": "evening"},
+      {"name": "Sadar Bazaar", "hours": 1.5, "tags": ["shopping", "food"], "slot": "afternoon"}
+    ],
+    "Jaipur": [
+      {"name": "Amber Fort", "hours": 3, "tags": ["heritage"], "slot": "morning"},
+      {"name": "Hawa Mahal", "hours": 1, "tags": ["heritage"], "slot": "afternoon"},
+      {"name": "Johari Bazaar", "hours": 2, "tags": ["shopping"], "slot": "afternoon"},
+      {"name": "Chokhi Dhani", "hours": 3, "tags": ["food", "heritage"], "slot": "evening"}
+    ],
+    "Udaipur": [
+      {"name": "City Palace", "hours": 2, "tags": ["heritage"], "slot": "morning"},
+      {"name": "Lake Pichola boat ride", "hours": 2, "tags": ["nature"], "slot": "afternoon"},
+      {"name": "Bagore Ki Haveli", "hours": 1.5, "tags": ["heritage"], "slot": "evening"},
+      {"name": "Ambrai ghat thali", "hours": 1.5, "tags": ["food"], "slot": "evening"}
+    ],
+    "Ahmedabad": [
+      {"name": "Sabarmati Ashram", "hours": 1.5, "tags": ["heritage"], "slot": "morning"},
+      {"name": "Adalaj Stepwell", "hours": 1.5, "tags": ["heritage"], "slot": "afternoon"},
+      {"name": "Law Garden market", "hours": 2, "tags": ["shopping"], "slot": "evening"},
+      {"name": "Manek Chowk", "hours": 2, "tags": ["food"], "slot": "evening"}
+    ],
+    "Mumbai": [
+      {"name": "Gateway of India", "hours": 1.5, "tags": ["heritage"], "slot": "morning"},
+      {"name": "Girgaum street food walk", "hours": 2, "tags": ["food"], "slot": "afternoon"},
+      {"name": "Colaba Causeway", "hours": 2, "tags": ["shopping"], "slot": "afternoon"},
+      {"name": "Marine Drive", "hours": 1.5, "tags": ["nature"], "slot": "evening"}
+    ],
+    "Pune": [
+      {"name": "Shaniwar Wada", "hours": 1.5, "tags": ["heritage"], "slot": "morning"},
+      {"name": "Aga Khan Palace", "hours": 1.5, "tags": ["heritage"], "slot": "afternoon"},
+      {"name": "Empress Garden", "hours": 1.5, "tags": ["nature"], "slot": "morning"},
+      {"name": "FC Road", "hours": 2, "tags": ["food", "shopping"], "slot": "evening"}
+    ],
+    "Goa": [
+      {"name": "Basilica of Bom Jesus", "hours": 1.5, "tags": ["heritage"], "slot": "morning"},
+      {"name": "Calangute Beach", "hours": 3, "tags": ["nature"], "slot": "afternoon"},
+      {"name": "Mapusa Market", "hours": 2, "tags": ["shopping"], "slot": "morning"},
+      {"name": "Beach shack lunch", "hours": 2, "tags": ["food"], "slot": "afternoon"}
+    ],
+    "Bengaluru": [
+      {"name": "Bangalore Palace", "hours": 2, "tags": ["heritage"], "slot": "morning"},
+      {"name": "Lalbagh", "hours": 2, "tags": ["nature"], "slot": "morning"},
+      {"name": "VV Puram food street", "hours": 2, "tags": ["food"], "slot": "evening"},
+      {"name": "Commercial Street", "hours": 2, "tags": ["shopping"], "slot": "afternoon"}
+    ],
+    "Hyderabad": [
+      {"name": "Charminar", "hours": 2, "tags": ["heritage"], "slot": "morning"},
+      {"name": "Golconda Fort", "hours": 3, "tags": ["heritage"], "slot": "afternoon"},
+      {"name": "Laad Bazaar", "hours": 1.5, "tags": ["shopping"], "slot": "afternoon"},
+      {"name": "Old City biryani lunch", "hours": 1.5, "tags": ["food"], "slot": "afternoon"}
+    ],
+    "Chennai": [
+      {"name": "Kapaleeshwarar Temple", "hours": 1.5, "tags": ["heritage"], "slot": "morning"},
+      {"name": "Marina Beach", "hours": 2, "tags": ["nature"], "slot": "evening"},
+      {"name": "Mylapore food walk", "hours": 2, "tags": ["food"], "slot": "afternoon"},
+      {"name": "T Nagar", "hours": 2, "tags": ["shopping"], "slot": "afternoon"}
+    ],
+    "Kochi": [
+      {"name": "Fort Kochi", "hours": 2, "tags": ["heritage"], "slot": "morning"},
+      {"name": "Chinese Fishing Nets", "hours": 1, "tags": ["heritage"], "slot": "evening"},
+      {"name": "Mattancherry spice market", "hours": 2, "tags": ["shopping"], "slot": "afternoon"},
+      {"name": "Jew Town cafes", "hours": 1.5, "tags": ["food"], "slot": "afternoon"}
+    ]
+  }
